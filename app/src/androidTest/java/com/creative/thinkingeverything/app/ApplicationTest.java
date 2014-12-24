@@ -6,7 +6,7 @@ import android.app.Application;
 /**
  * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>
  */
-public class ApplicationTest extends ApplicationTestCase<Application> {
+public class ApplicationTest extends ApplicationTestCase<Application> {//ieauieaiueauia
     public ApplicationTest() {
         super(Application.class);
     }
